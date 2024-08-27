@@ -5,7 +5,7 @@ Atuo na criação de projetos 🎥 audiovisuais e 📢 marketing digital, abrang
 
 ## 🔗 Conecte-se comigo
 
-[![Meu Portfolio](https://img.shields.io/badge/Meu%20perfil%20dio%20-A44DDA?style=for-the-badge
+[![Meu Portfolio](https://img.shields.io/badge/Meu%20portfolio%20-A44DDA?style=for-the-badge
 )](https://tiagoalmeidaportfolio.com.br/) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tastiago)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoalmeidaoficial)
